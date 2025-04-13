@@ -1,0 +1,12 @@
+[submodule "DeepSeek-Coder-V2"]
+	path = DeepSeek-Coder-V2
+	url = https://github.com/deepseek-ai/DeepSeek-Coder-V2.git
+	branch = main
+[submodule "summary_nlp"]
+	path = summary_nlp
+	url = https://github.com/w666x/summary_nlp.git
+	branch = main
+[submodule "vanna"]
+	path = vanna
+	url = https://github.com/vanna-ai/vanna.git
+	branch = main
